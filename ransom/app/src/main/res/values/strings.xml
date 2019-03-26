@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EECS448Project1</string>
+
+    <string name="title_activity_pay_up">PayUp</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
